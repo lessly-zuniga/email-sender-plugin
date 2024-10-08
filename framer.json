@@ -1,0 +1,8 @@
+{
+  "id": "5a35d1",
+  "name": "Email Sender Plugin",
+  "modes": [
+    "canvas"
+  ],
+  "icon": "/icon.svg"
+}
