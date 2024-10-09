@@ -27,7 +27,12 @@ yarn-error.log\*
 # local env files
 
 .env\*.local
+.env
 
 # Packed plugin
 
 plugin.zip
+firebase.ts
+/sendgrid-test
+firebase-debug.log
+functions/node_modules/
